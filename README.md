@@ -7,7 +7,7 @@ The Squid Proxy Installer (short: SPI) is a fully automated shell script to inst
 SPI was written for the most common server Linux operating systems:
 <ul>
 <li>CentOS 5/6/7</li>
-<li>Debian 6/7/8</li>
+<li>Debian 6/7/8/9</li>
 <li>Ubuntu (most versions are supported)</li>
 <li>Fedora (most versions are supported)</li>
 <li>More OS on request</li>
@@ -29,6 +29,8 @@ Debian 6 or 7:<br />
 <code>./spi -debian</code><br /><br />
 Debian 8:<br />
 <code>./spi -jessie</code><br /><br />
+Debian 9:<br />
+<code>./spi -stretch</code><br /><br />
 Ubuntu:<br />
 <code>./spi -ubuntu</code><br /><br />
 Fedora:<br />
